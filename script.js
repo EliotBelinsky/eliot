@@ -1,0 +1,1 @@
+let r = document.getElementById("elem1")
